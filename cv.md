@@ -18,3 +18,24 @@
 
  For almost two years i regularly studying english with a teacher. Also i often watch movies and read books in english.
  category's
+
+## Code example
+```
+let str = prompt('Insert the link.');
+
+
+if (str.includes('http')) {
+    alert(str.substring(8))
+} else if (str.includes('https')) {
+    alert(str.substring(9))
+} else alert('Try again.');
+
+```
+
+## Education
+Courses "Front-End Developing" by [Logos It Academy](https://kyiv.logos-academy.com/frontend-developer).
+
+## Contacts
+* Phone: +380937784710
+* Email: renata.sporevaya@gmail.com
+* GirHub: [@rinaekls](https://github.com/rinaekls)
