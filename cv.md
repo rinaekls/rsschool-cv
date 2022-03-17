@@ -37,7 +37,7 @@ if (str.includes('http')) {
  I have level __B1__. 
 
  For almost two years i regularly studying english with a teacher. Also i often watch movies and read books in english.
- category's
+
 
 ## Education
 ***
