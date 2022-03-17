@@ -1,7 +1,3 @@
-## [rsschool cv](https://github.com/rinaekls/rsschool-cv/tree/gh-pages)
-
-
-
 # Renata Sporevaya
 
 ## Skills
@@ -26,13 +22,12 @@ if (str.includes('http')) {
 } else if (str.includes('https')) {
     alert(str.substring(9))
 } else alert('Try again.');
-
 ```
 
- ## English
- I have level __B1__. 
+## English
+I have level __B1__. 
 
- For almost two years i regularly studying english with a teacher. Also i often watch movies and read books in english.
+For almost two years i regularly studying english with a teacher. Also i often watch movies and read books in english.
 
 
 ## Education
@@ -41,4 +36,4 @@ Courses "Front-End Developing" by [Logos It Academy](https://kyiv.logos-academy.
 ## Contacts
 * Phone: +380937784710
 * Email: renata.sporevaya@gmail.com
-* GirHub: [@rinaekls](https://github.com/rinaekls)
+* GitHub: [@rinaekls](https://github.com/rinaekls)
