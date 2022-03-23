@@ -1,0 +1,108 @@
+
+
+.web {
+    display: flex;
+}
+
+.left-block-main {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 100vh;
+    background-color: rgb(141, 145, 136);
+}
+
+.highlight-line-left {
+    background-color: rgba(113, 122, 101, 0.425);
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.white-div {
+    width: 30px;
+    height: 40px;
+    background-color: rgba(218, 214, 193, 0.644);
+}
+
+.text-highlight {
+    margin-left: 50px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.text-left , .text-left-first {
+    margin-left: 80px;
+    font-size: 25px;
+    color: white;
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: 12px;
+}
+
+.text-left-first {
+    margin-top: 40px;
+}
+
+
+
+
+.right-block-main {
+    width: 70%;
+    height: 100vh;
+    background-color: rgb(218, 214, 193);
+    display: flex;
+    flex-direction: column;
+}
+
+.person-name {
+    color: rgba(113, 122, 101);
+    font-size: 100px;
+    font-family: 'Quicksand', sans-serif;
+    margin: 50px 0 0 70px;
+}
+
+.highlight-line-right {
+    background-color:rgba(190, 186, 166, 0.705) ;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.green-div {
+    width: 30px;
+    height: 40px;
+    background-color:rgba(113, 122, 101, 0.425) ;
+}
+
+.text-aboutme {
+    font-size: 25px;
+    color: rgba(113, 122, 101);
+    font-family: 'Quicksand', sans-serif;
+    margin: 50px 80px 0 78px;
+}
+
+.text-skills {
+    font-size: 25px;
+    color: rgba(113, 122, 101);
+    font-family: 'Quicksand', sans-serif;
+    margin: 50px 80px 0 78px;
+}
+
+.container-skills {
+    display: flex;
+    flex-direction: row;
+}
+
+.container-skills-text {
+    display: flex;
+    flex-direction: column;
+}
+
+.text-education {
+    font-size: 25px;
+    color: rgba(113, 122, 101);
+    font-family: 'Quicksand', sans-serif;
+    margin: 50px 80px 0 78px;
+}
